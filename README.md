@@ -8,8 +8,7 @@ git clone https://github.com/rubenlaureys/BB-Worldclock # clone this repository
 2. Then, add the following into the modules section of your config/config.js file:
 
 {
-  
-  module: 'worldclock',
+module: 'worldclock',
   
   position: 'top_left', // This can be any of the regions, best results in top_left or top_right regions
   
