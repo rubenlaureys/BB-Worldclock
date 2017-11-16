@@ -9,7 +9,9 @@ git clone https://github.com/rubenlaureys/BB-Worldclock # clone this repository
 
 {
   module: 'worldclock',
+  
   position: 'top_left', // This can be any of the regions, best results in top_left or top_right regions
+  
   config: {
     // See 'Configuration options' for more information.
 
